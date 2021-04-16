@@ -1,1 +1,1 @@
-# cafe-house-temp
+# Website Template - Cafe House
